@@ -13,9 +13,6 @@ class Program
             double s2=Math.Floor(N / 2) + (N % 2);
             return F(s1)+ F(s2);
         }
-        
-       
-
     }
     static void Main()
     {
